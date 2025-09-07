@@ -6,7 +6,7 @@ A Gesture Controlled Home Automation using Opencv in Python  that interfaces wit
 
 ## Demo
 
-Insert gif or link to demo
+<img align="centre" alt=GIF" src="https://github.com/Namith-kp/Flick-Control/blob/main/demo.gif?raw=true" />
 
 
 ## Screenshots
