@@ -1,14 +1,14 @@
 
-# Flick Control
+# 🚀 Flick Control
 
 A Gesture Controlled Home Automation using Opencv in Python  that interfaces with an Arduino via a COM port to control LEDs based on hand gestures.
 
 
 
-## Demo
+## 📸 Demo
 ![Demo](https://raw.githubusercontent.com/Namith-kp/Flick-Control/main/assets/demo.gif)
 
-## Run Locally
+## 📦 Installation & Run Locally
 
 - Clone the project
 
@@ -39,7 +39,7 @@ A Gesture Controlled Home Automation using Opencv in Python  that interfaces wit
 ```
 
 
-## Features
+## 🌟 Features
 
 - Seamless Single Hand Gestures Detection (can modify to 2 hands)
 - Live gestures previews
@@ -47,7 +47,7 @@ A Gesture Controlled Home Automation using Opencv in Python  that interfaces wit
 - Can switch to Muiltiple connected cameras
 
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot 1](https://raw.githubusercontent.com/Namith-kp/Flick-Control/main/assets/HomePage.png)
 
